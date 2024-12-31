@@ -4,9 +4,11 @@ You can download the input images from this link: https://drive.google.com/drive
 
 Or directly use the pre-trained model with a .pkl extension.
 
+
 Artist's Statement:
 
 The "Sentimental Spectrum: A Journey Through Emotion" artwork is a fusion of machine learning and creative expression. This interactive piece explores the intricate relationship between human emotions and vibrant color palettes. Using text input, the artwork analyzes the user's feelings, translating these emotions into visually striking color combinations.
+
 
 Project Description:
 
@@ -18,7 +20,8 @@ The visual representation of these emotions is captivating. A grid of colors unf
 
 The artwork goes beyond mere aesthetics; It delves into the complexity of human emotions. It bridges the gap between technology and emotion, transforming original text into a vibrant visual color palette. It invites viewers to consider the deep connections between language, emotion, and the visual spectrum, providing a unique interactive art experience.
 
-Background Research and Reflection
+
+Background Research and Reflection:
 
 Reflection on Social and Cultural Aspects
 Traditionally, the arts and creative industries have been thought of as uniquely human fields. However, as technology advances, more and more researchers and artists are trying to bring AI to the field.
